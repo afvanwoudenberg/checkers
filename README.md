@@ -1,2 +1,2 @@
-# checkers
-A checkers game in Java
+# Checkers
+A checkers game in Java.
